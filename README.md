@@ -5,7 +5,7 @@
 
 <p align="center">
 Sistema web desenvolvido para testar e demonstrar habilidades em HTML e CSS. Desenvolvimento de uma interface completa para empresa de transporte rodoviário, contendo telas de home, modalidades, fretamento,
-vantagens e contato
+vantagens e contato.
 </p>
 
 ## Tecnologias Utilizadas 💻
@@ -15,9 +15,9 @@ vantagens e contato
 **CSS**: Utilizado para estilizar os elementos da página, garantindo um visual atrativo.  
 
 ## Objetivos alcançados 💡  
-✔️ **Validação de conhecimentos em estrutura HTML**
-✔️ **Aplicação de estilos CSS profissionais**
-✔️ **Criação de navegação intuitiva**
+✔️ **Validação de conhecimentos em estrutura HTML**  
+✔️ **Aplicação de estilos CSS profissionais**  
+✔️ **Criação de navegação intuitiva**  
 
 ## Como clonar o repositório 📋
 
